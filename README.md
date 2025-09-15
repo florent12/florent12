@@ -11,17 +11,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 
 ---
 
-## 📊 Stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florent12&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?florent12=florent12&layout=compact&theme=tokyonight)  
-
----
-
-## 🌍 Me retrouver
+##  Mes coordonnées 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/florent-atakora/)  
 - ✉️ [Email](atakoraflorenr@gmail.com)  
