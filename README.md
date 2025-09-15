@@ -1,8 +1,8 @@
-# 👋 Salut, je suis [Ton Prénom]
+# 👋 Salut, je suis Florent
 
-🎯 **Data Engineer | Cloud & Big Data Enthusiast | Backend Developer**
+ **Data Engineer | Cloud & Big Data Enthusiast | Data Engineer**
 
-💡 Passionné par la **data** et l’**IA appliquée**, j’aime construire des pipelines robustes, des APIs performantes et explorer la puissance du cloud pour des projets à forte valeur ajoutée.  
+💡 Passionné par la **data** et le**Cloud**, j’aime construire des pipelines robustes, des APIs performantes et explorer la puissance du cloud pour des projets à forte valeur ajoutée.  
 
 ---
 
@@ -19,7 +19,6 @@
 ## 🛠️ Stack technique
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
