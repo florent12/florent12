@@ -2,7 +2,7 @@
 
  **Data Engineer | Cloud & Big Data Enthusiast**
 
-💡 Passionné par la **data** et le **Cloud**, j’aime construire des pipelines robustes, des APIs performantes et explorer la puissance du cloud pour des projets à forte valeur ajoutée.  
+ Passionné par la **data** et le **Cloud**, j’aime construire des pipelines robustes, des APIs performantes et explorer la puissance du cloud pour des projets à forte valeur ajoutée.  
 
 ---
 ## 🛠️ Stack technique
